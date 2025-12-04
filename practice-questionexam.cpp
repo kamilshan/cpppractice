@@ -26,6 +26,7 @@ void account::get() {
 
 void account::add_balance() {
     float b;
+
     cout << "Add balance: ";
     cin >> b;
 
