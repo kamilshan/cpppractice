@@ -10,7 +10,7 @@ int main()
     cin>>alpha;
     cout<<"enter beta";
     cin>>beta;
-    tu=(alpha<beta) ? alpha : beta;
+    tu=(alpha<beta) ? alpha : beta;//conditional operator 
     cout<<alpha<<"\n"<<beta<<"\n"<<tu;
     
 
